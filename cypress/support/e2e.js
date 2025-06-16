@@ -17,7 +17,7 @@
 import './commands'
 import './transacoes_commands'
 import './api_commands'
-
+import './swaglabsCommands'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
